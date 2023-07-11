@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+textarea {
+    width: 500px;
+    height: 200px;
+}
+
+button {
+    width: max-content;
+    padding: 5px;
+    font-size: 15px;
+}
